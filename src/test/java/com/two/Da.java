@@ -10,7 +10,9 @@ public static void main(String[] args) {
 	SimpleDateFormat dateFormat=new SimpleDateFormat("dd-MM-yy");
 	String format = dateFormat.format(date);
 	System.out.println(format);
-	System.out.println("sabari");
+System.out.println("sabari");
+	System.out.println("aha");
+	
 }
 	
 
